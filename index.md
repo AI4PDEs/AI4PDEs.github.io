@@ -10,3 +10,5 @@ layout: page
 [Backpropagation](optimization-2/)
 [Neuro-symbolic AI4Math](symbolic/)
 
+
+[Survey](https://arxiv.org/pdf/2303.17078)
